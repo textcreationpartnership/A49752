@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a book published by Richard Smith of Westchester wherein the people of God called Quakers (more particularly in this county of Cheshire) are cleared from the wrong, injustice, and false accusations by him charged upon them / written for the information and satisfaction of the sober-minded by Alexander Lawrence.</title>
+            <author>Lawrence, Alexander, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49752</idno>
+            <idno type="STC">Wing L649</idno>
+            <idno type="STC">ESTC R25714</idno>
+            <idno type="EEBO-CITATION">09088643</idno>
+            <idno type="OCLC">ocm 09088643</idno>
+            <idno type="VID">42405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1288:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a book published by Richard Smith of Westchester wherein the people of God called Quakers (more particularly in this county of Cheshire) are cleared from the wrong, injustice, and false accusations by him charged upon them / written for the information and satisfaction of the sober-minded by Alexander Lawrence.</title>
+                  <author>Lawrence, Alexander, d. 1682.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, Richard, --  of Westchester.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42405:1" rendition="simple:additions"/>
+            <p>AN ANSVVER To a Book publiſhed by Richard Smith OF WESTCHESTER, Wherein The People of God called QUAKERS (more par<g ref="char:EOLhyphen"/>ticularly in this County of <hi>Cheſhire</hi>) are cleared from the Wrong, Injuſtice and Falſe Accu<g ref="char:EOLhyphen"/>ſations by him charged upon them.</p>
+            <p>
+               <hi>Written for the Information and Satisfaction of the Sober-minded, by</hi> Alexander Lawrence.</p>
+            <q>Thou ſhalt not bear Falſe Witneſs againſt thy Neighbour, <bibl>
+                  <hi>Exod. 20.16.</hi>
+               </bibl>
+            </q>
+            <q>Againſt an Elder receive not an Accuſation, but before two or three Witneſſes, <bibl>
+                  <hi>1 Tim. 5.10.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1677.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42405:2"/>
+            <pb n="3" facs="tcp:42405:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>VVHoſoever thou art to whom this may come, and eſpecially to all ſuch who have ſeen <hi>Richard Smith</hi>'s Book, to which this following is an Anſwer; and becauſe the ſaid <hi>Richard Smith</hi> giveth thee an Account in his Book, how long he hath walked with thoſe People called <hi>Quakers,</hi> &amp;c. and now hath thus publickly appear<g ref="char:EOLhyphen"/>ed againſt them, therefore leſt thou ſhouldſt ſay (as ſome have done) <hi>That the</hi> Quakers <hi>are divided amongſt themſelves, and therefore are like to come to nought.</hi>
+            </p>
+            <p>To all ſuch (on the behalf of the People aforeſaid) I Anſwer, That the People called <hi>Quakers</hi> are not divided, but are in Unity, Peace and Concord a<g ref="char:EOLhyphen"/>mongſt themſelves, praiſed be the Lord for it, who is the God of all our Mercies, who hath raiſed us up to be a People, who were not a People, by his own Arm of Power, and thereby hath gathered us to him<g ref="char:EOLhyphen"/>ſelf, who were once afar off; and by this Power have we been preſerved unto this day, notwithſtanding many who have riſen up againſt us; and bleſſed be the Lord, this holy Arm of Power we do yet feel to uphold us and carry us on through whatſoever Sufferings or Reproaches do or may yet attend us for his Name ſake.</p>
+            <p>And although ſome, who have walked with us, may turn from us, it is ſo manifeſt, that they were not truly of us; and ſuch there were in the dayes of the Apoſtles, of whom <hi>John</hi> ſpeaks, 1 Joh. 2.19.
+<pb n="4" facs="tcp:42405:3"/> 
+               <hi>They went out from us, but they were not of us</hi> (but as he ſaith, even ſo ſay we) <hi>if they had been of us, no doubt they would have continued with us; but they went out, that they might be made manifeſt, &amp;c.</hi> And <hi>Judas</hi> walked, and was numbred amongſt the Apoſtles, yet afterwards turned from them, and proved a Traytor. And the Wiſe in Heart may eaſily ſee <hi>R. S</hi>'s Deſign in publiſhing his Book, &amp; thereby gratifying ſuch who are evilly affecti<g ref="char:EOLhyphen"/>ed towards us. The Apoſtle <hi>Paul,</hi> when he ſpeaks of his many Perils, 2 <hi>Cor.</hi> 11.26. mentions as not one of the leaſt of his Sufferings (to wit) his <hi>Perils amongſt falſe Brethren;</hi> and ſo, if we meet with ſuch in our day, it is no new thing, but even the ſame that our Brethren that are gone before us have met with in their Age and Day.</p>
+            <closer>
+               <signed>T. J.</signed>
+               <dateline>
+                  <hi>Given forth</hi> 
+                  <date>the 29th <hi>day of the</hi> 7th <hi>Moneth,</hi> 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:42405:3"/>
+            <head>AN ANSVVER To a BOOK publiſhed by Richard Smith OF WESTCHESTER.</head>
+            <opener>
+               <salute>Richard Smith,</salute>
+            </opener>
+            <p>THy Book thou gaveſt me the 26th of the 4th Moneth, I have peruſed, and did wholely conclude to have been ſilent as to any Anſwer to it, knowing <hi>it would paſs away like an untimely Birth,</hi> as many of that nature and tendency have done; but upon further conſideration finding, that though thou pretendeſt to a great deal of fair and Chriſtian-like dealing with us in Words, yet in Deed haſt done otherwayes, as though we were guilty of groſs Errors, and in our managing of the Difference between thee and <hi>Daniel Maddock.</hi> that thou hadſt received ſuch Wrong from us as is beyond all bounds of Ci<g ref="char:EOLhyphen"/>vility; page the 7th at large, reporting thoſe for my words in the behalf of the Meeting which were not mine, taking part of that which thou to me calledſt the Preamble to my Anſwers to thy Queries, and therein ſeekeſt to faſten a Lye upon me; alſo adding or diminiſhing to all or moſt of my Anſwers to thy Queries, which in their time and place I ſhall prove, and therefore cannot well paſs it by with Silence, as thou in thine to the Reader ſayſt, <hi>it was the way of the holy men of old not to favour groſs Errors therewith;</hi> but ſhall endeavour to manifeſt to thee, and all the ſober-minded that
+<pb n="6" facs="tcp:42405:4"/> may come to read this thy unchriſtian like dealing with Friends in this County in general, and my ſelf in particular. In the firſt place, thou tell'ſt the Reader, <hi>That thou ſignifiedſt to thy Friends thy intent in publiſhing thine; and that thou gave them ten dayes time, that they might have come and ſeen it.</hi> I leave it to the ſober Reader to judge, whether it had not been as fit for thee to have come to ſome of us, to have ſhewed it (as I did this to thee) before thou hadſt publiſhed it; and I my ſelf, upon the receiving notice thereof from thee, wrote to thee again, ſignifying my deſire unto thee to the contrary, <hi>by reaſon it would open the mouthes of many to ſpeak evil, &amp; ſay, as they now do, We are at Difference among our ſelves:</hi> but my Letter, by reaſon of ſome neglect in the <hi>meſſenger,</hi> came not to thee within thy prefixed time <hi>(though it came before thy Papers went from thy hand)</hi> and therefore thou wouldſt not ſo much as open it to read, but ſent it from thee ſealed again; which I alſo leave to the ſober minded to judge, whether this were <hi>chriſtian</hi> or <hi>friendly deal<g ref="char:EOLhyphen"/>ing</hi> yea or nay, being it came before thine went from thy hands: &amp; though ſuch things as theſe may and do give ſome occaſion to ſay, <hi>We are at Difference among our ſelves,</hi> yet bleſſed be the Lord, who by the Arm of his holy Power at firſt gathered us, and brought us nigh unto himſelf (which were once afar off) and one unto ano<g ref="char:EOLhyphen"/>ther in that holy Power; by the ſame he hath and doth preſerve the faithful and upright in heart nigh unto himſelf, and in Unity one with another, and in love and good will to all people: and though ſome have, and do, and may go from us, yet it is but <hi>that it may be manifeſt, that they were not all of us.</hi>
+            </p>
+            <p>In Pag. 8. thou ſay'ſt, <hi>Thou haſt walked with theſe People ſince the beginning,</hi> meaning them called <hi>Quakers:</hi> that is not ſo; for they were a People a good ſeaſon before thou cameſt among them ſo as to joyn with them, &amp; longer before thou walkedſt with them in all <hi>humility</hi> and <hi>lowlineſs,</hi> as thou pretendſt: <hi>Bearing part with them in all Tryals and Sufferings that have befallen them upon a Re<g ref="char:EOLhyphen"/>ligious account,</hi> as thou there writeſt: Theſe are very large ſayings, and very much included in them; but leſs in <hi>words,</hi> and more in <hi>deeds,</hi> would make thee never the worſe, but better thought of by them that have and do know thy manner of <hi>humility</hi> and <hi>lowlineſs,</hi> and what part thou haſt born with us in all our Tryals and Suffer<g ref="char:EOLhyphen"/>ings;
+<pb n="7" facs="tcp:42405:4"/> but it may be thou beganſt to be weary of that part thou didſt or mightſt bear with us, &amp; therefore took this occaſion to turn the <hi>Meeting</hi> forth of thy Houſe, and to diſſent from us; Truth and Time will manifeſt all things.</p>
+            <p>The firſt part of thy Book is, to give an account of our dealing or mannagement of the <hi>difference</hi> between thee and <hi>Daniel Mad<g ref="char:EOLhyphen"/>dock;</hi> and this we know, <hi>that</hi> Daniel <hi>did not in many things carry hinſelf as became one profeſſing what he doth, but many times gave oc<g ref="char:EOLhyphen"/>caſion for thee to complain of him;</hi> and this thou as well knoweſt we never ſtood by him, or in the leaſt owned him therein; but on the contrary, reproved him for the ſame, and admoniſhed him to con<g ref="char:EOLhyphen"/>demn it, which according to thine pag. 11. he did; and yet new occaſion did riſe, ſo that the Difference continued, and rather in<g ref="char:EOLhyphen"/>creaſed between you, by reaſon of which we were much troubled, and our ſpirits often grieved, and tired with the matter, much of the Meeting being many times taken up with that buſineſs; and our deſires were, <hi>that the man might ſee his own Weakneſs, and ſhun it;</hi> and therefore did we bare with him long, not willing to caſt him wholely off, knowing there was a Principle of God in him, for the ſake of which many of us had a <hi>ſecret reſpect for him,</hi> though we dealt plainly with him: and thou thy ſelf at a Meeting, when we were determined to proceed againſt him, <hi>deſired Forbearance, for thou hadſt Hopes of the Man.</hi>
+            </p>
+            <p>Witneſs <hi>Thomas Janney, Henry Morrey.</hi>
+            </p>
+            <p>And our long Forbearance (which thou blameſt us ſo much for, calling it <hi>Neglect, Injuſtice, and falſe to our own Orders, &amp;c.</hi>) pro<g ref="char:EOLhyphen"/>duced this at the laſt, <hi>viz.</hi> that he, upon the ſending <hi>Thomas Wynne</hi> and his Brother <hi>Nathan</hi> to him, they laying ſomething before him, came to ſee his Error, and to condemn it, and gave forth a <hi>Paper</hi> againſt himſelf, the Copy of which is as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="8" facs="tcp:42405:5"/>
+                  <head>To all my dear Friends, both Brethren and Siſters at their Quarterly-Meeting in <hi>Cheſhire.</hi>
+                  </head>
+                  <opener>
+                     <dateline>Cheſter, <date>
+                           <hi>the 9th of the 10th Moneth, 1675.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>WHereas you out of love and tenderneſs towards me, have order<g ref="char:EOLhyphen"/>ed my Brother <hi>Nathan Maddock</hi> and <hi>Thomas Winne</hi> to come unto me, to reaſon with me concerning thoſe things charged in your Pa<g ref="char:EOLhyphen"/>per, which things they clearly opened to my <g ref="char:V">Ʋ</g>nderſtanding to be Evil, <hi>viz.</hi> My Burdening the Meeting ſometimes with Words, which they could not bear; in speaking Evil againſt <hi>James Parke</hi> and <hi>Richard Smith;</hi> and having Seperate Meetings, which Friends do diſown: Moreover being at this time ſenſible of God's living Truth, I do in the ſenſe of the ſame, condemn not only all thoſe things aforeſaid, but all other that the Spirit of Truth condemns by you, in that bleſſed and good Order wherein you are gathered; yea, dear Friends, I do con<g ref="char:EOLhyphen"/>demn the very ſpirit and ground of it, and deſire to live with you in that good and heavenly Order for evermore.</p>
+                  <closer>
+                     <signed>
+                        <hi>The Mark of</hi> Daniel <hi>VVV</hi> Maddock.</signed>
+                     <signed>
+                        <hi>Witneſs</hi>
+                        <list>
+                           <item>Nathan Maddock,</item>
+                           <item>Richard Hemlock,</item>
+                           <item>Thomas Winne.</item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>This may alſo further ſatisfie, that the aboveſaid was the true Deſire of my own Heart.</p>
+                     <closer>
+                        <signed>D. M.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>And though thou ſayeſt, <hi>Thou knoweſt not upon what account we received it;</hi> yet it was in order to give thee, or any other that he had offended ſatisfaction: Yet were we not ſatisfied with this only, but alſo enjoyned his Brother <hi>Nathan</hi> to go to him, and ad<g ref="char:EOLhyphen"/>viſe him, as from us, <hi>To go to thee, and Condemn the thing before the Woman which was by when the words were ſpoke;</hi> which according<g ref="char:EOLhyphen"/>ly he did: and though thou art minded to ſay it was by reaſon of
+<pb n="9" facs="tcp:42405:5"/> thy threatning to have him before the Mayor of the City; but that is but thy Suppoſition; but however, we enjoyned him to do it, and accordingly he did, and therein our expectation was an<g ref="char:EOLhyphen"/>ſwered; and thou at that time ſeemed ſatisfied, and <hi>deſired the Lord to forgive him, and thou didſt.</hi>
+            </p>
+            <p>Witneſs <hi>Nathan Maddock, Richard Hemlock.</hi>
+            </p>
+            <p>Yet after all this, to ſeek in all things to juſtifie thy ſelf, and render us and our proceedings as bad as thou canſt, is not Chri<g ref="char:EOLhyphen"/>ſtian nor Friend-like; but I do believe thou wilt miſs of thy End in the minds of ſober people, unto whom I leave the conſiderati<g ref="char:EOLhyphen"/>on of theſe things to judge, whether we deſerve to be reflected upon after ſuch a manner as thou doſt in thy Book, and whether thou deſerveſt to be juſtified in ſo doing; for my end chiefly in writing is, to give ſatisfaction to ſuch as may read both thine &amp; this.</p>
+            <p>And as to the thing thou chargeſt us with, relating to <hi>Thomas Davanport,</hi> I ſhall give a ſhort Relation of the truth of the mat<g ref="char:EOLhyphen"/>ter, and leave it to the conſideration of the ſober Reader, whe<g ref="char:EOLhyphen"/>ther thou haſt not wronged us in ſaying, <hi>We received an Accuſati<g ref="char:EOLhyphen"/>on from him againſt thee when thou waſt abſent. Thomas Davanport</hi> had been long from amongſt us, and at that time <hi>Thomas Winne</hi> and <hi>Nathan Maddock</hi> went to D.M. they alſo went to <hi>Thomas Davanport,</hi> and after ſome diſcourſe together, he ſaw he had not done well, and ingenuouſly confeſſeſſed it, and gave forth a Paper to condemn it, the Copy is as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>This is to all Friends in the Living and Eternal Truth.</head>
+                  <p>THat whereas I have been judged to deny the <hi>Meetings</hi> and <hi>Aſ<g ref="char:EOLhyphen"/>ſemblies</hi> of Friends, and upon that account have abſtained from <hi>Meetings,</hi> and joyned my ſelf to thoſe that have denyed <hi>Meet<g ref="char:EOLhyphen"/>ings.</hi> I do here teſtifie in the Preſence of the Lord, and bear my Te<g ref="char:EOLhyphen"/>ſtimony againſt that ſpirit that hath led from Meetings, and doth lead from meetings, &amp; particularly againſt that ſpirit that judged Friends for <hi>putting off their Hats &amp; kneeling in the time of publick Prayer:</hi> and not only ſo, but alſo bear my Teſtimony againſt that ſpirit of Im<g ref="char:EOLhyphen"/>poſition
+<pb n="10" facs="tcp:42405:6"/> that keeps it on; and as touching my marrying contrary to the good and heavenly Order that is now eſtabliſhed among Friends, I do condemn with the former, and the Root and Ground that led me to it: and whatſoever the bleſſed Spirit of God in the good Order of the ſame condemns, I do from my Heart condemn: and hereby deſire, that this may remove whatſoever Scruple may be in the hearts of any Friends in reference to theſe things aforeſaid; and I heartily deſire in the ſenſe of God's bleſſed Truth to be at <g ref="char:V">Ʋ</g>nity with Friends in the ſame holy and good Order forever and for evermore.</p>
+                  <closer>
+                     <signed>With my whole heart I do freely conſent to what is above written. <hi>Thomas Davanport.</hi>
+                     </signed>
+                     <dateline>Iron-Bridge-houſe, <date>
+                           <hi>the 10th of the 10th Moneth, 1675.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Witneſſes
+<list>
+                           <item>
+                              <hi>Nathan Maddock,</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Wynne.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Which when we heard, many of us were very glad of it, having had long good will for him, and really deſired his good, The next Quarterly-Meeting he came among us, and having ſome diſcourſe with him, we adviſed him, to go again to Meetings amongſt us; he anſwered, Richard Smith <hi>had forbid him his houſe, and he did not know whether he would be willing he ſhould come thither or nay,</hi> or words to this effect; we told him, <hi>We could not receive any thing againſt</hi> Richard Smith, <hi>he not being there,</hi> and therefore de<g ref="char:EOLhyphen"/>ſired him to forbare; and further, <hi>William Gandy</hi> and others ſaid unto him, <hi>They would engage</hi> Richard Smith <hi>would be willing he ſhould come into his houſe:</hi> this was the occaſion of thoſe words from T. D. and our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſwer, and whether this were receiving a Falſe Accuſation againſt thee, as thou chargeſt us with, let any reaſona<g ref="char:EOLhyphen"/>ble man judge.</p>
+            <p>Witneſs
+<list>
+                  <item>
+                     <hi>William Gandy,</hi>
+                  </item>
+                  <item>
+                     <hi>John Simcock,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Welch,</hi>
+                  </item>
+                  <item>
+                     <hi>John Badely,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Maddock,</hi> with many more.</item>
+               </list>
+            </p>
+            <p>Afterwards thou cameſt into the Meeting, and I told thee what <hi>Tho. Davanport</hi> had accuſed thee with, but not willing to have any old matters debated upon (we having had too much of them,
+<pb n="11" facs="tcp:42405:6"/> as before) I did ask thee this Queſtion, <hi>Richard,</hi> Art thou willing <hi>Thomas</hi> ſhall come into thy Houſe to the Meeting? thou ſaidſt, <hi>Thy Doors were open, &amp;c.</hi> I asked thee again; thou replyedſt off the Matter; ſo I ſaid, <hi>Richard,</hi> Canſt not thou ſay, thou art willing, or thou art not? what needeth ſo much ado? And when thou couldſt not ſatisfie us with thoſe Anſwers, thou ſaidſt, <hi>Thou wouldſt ſay no more,</hi> or words to that purpoſe: and indeed, it did trouble many in the Meeting to ſee thee ſo ſtiff, and ſo little of a condeſcending ſpirit, that though Friends had engaged thou wouldſt be willing, yet thou wouldſt not ſo much as ſay thou wert; which manner of carriage in thee hath given too much occaſion of the then Difference in <hi>Cheſter:</hi> and when thou hadſt refuſed to anſwer, <hi>Thomas</hi> ſeeing we were troubled thereat, he ſaid to thee, <hi>If he had done thee any VVrong, he would do what thou wouldſt have him to do,</hi> or words to that purpoſe; and further ſaid, <hi>he would do what we would have him to do;</hi> and thereupon we adviſed and deſired him to come to Meetings, which accordingly he did; and this thing was it that did (as thou calledſt it p. 7.) <hi>pinch thee the moſt of any thing that was done by us;</hi> and after this thy ſpirit turn<g ref="char:EOLhyphen"/>ed againſt us; and then thou be an'ſt to ſpeak and write againſt Womens Meetings, and not before ſince that at <hi>London</hi> (which thou chiefly objecteſt againſt) though that was done above nine moneth before this I mention; yet nothing that I know of ſaid a<g ref="char:EOLhyphen"/>gainſt it by thee till after this time; ſo it may eaſily be underſtood the Ground or Reaſon of thy differing with and ſeparating from us, even becauſe thy Mind was not anſwered in all things accor<g ref="char:EOLhyphen"/>ding to thy deſire by us (which is not the Symtom of a mans walk<g ref="char:EOLhyphen"/>ing in all Humility and Lowlineſs with us, as thou boaſteſt of thy ſelf) though thou now pretendeſt ſomething elſe, and makeſt a great noiſe of the Wrong we have done thee, &amp;c. which is left to the Reader to conſider of, and without partiality to judge.</p>
+            <p>So I come to ſhew wherein thou haſt wronged me, in report<g ref="char:EOLhyphen"/>ing thoſe for my words in the behalf of the Meeting which were not mine: The 19th of the 8th moneth, 1676. after a long De<g ref="char:EOLhyphen"/>bate with thee, indeed to ſmall purpoſe, as is proved; thou mayſt well know the Cauſe of it, if thou wilt but let Truth take place in thy mind; the greateſt matter thou at that time couldſt alledge againſt us was, our Forbearance, or as thou calleſt it; <hi>neglect,
+<pb n="12" facs="tcp:42405:7"/> &amp;c. that we had not given Sentence of Excommunication againſt</hi> Daniel Maddock, <hi>and wholely rejected him;</hi> which indeed (as by thy Book doth appear) was the main thing thou hadſt driven at for a ſeaſon; thereupon I ſaid in the behalf of the Meeting, That <hi>the Church had Power to paſs Sentence of Excommunication, or to forbear for a time, as they ſaw meet and convenient in the Wiſdom of God;</hi> theſe were my words, witneſs <hi>Tho. Brigs, Richard Milner,</hi> and others, and theſe we will ſtand by. And we do ſay, <hi>The time and ſeaſon of our declaring on diſunion with thoſe who break out of the order of truth ſtands not in the will of any prejudiced man, but in the will of God, who is Long-ſuffering and full of tender Mercy, who waits to reſtore the Back-ſlider.</hi>
+            </p>
+            <p>Thou ſayſt in thine, pag. 19. I ſaid, <hi>We had power to ſuſpend our Judgment;</hi> in which thou ſheweſt either a great deal of Ignorance or Wilfulneſs; for we had given our Judgment long before this againſt D. M. otherwiſe, why did we require him to make thee ſatisfaction? This manner of dealing is not Friendly nor Chriſtian<g ref="char:EOLhyphen"/>ly, but looketh too like Forgery.</p>
+            <p>For thy ſaying, that Tho. Brigs <hi>and</hi> Tho. Wynne <hi>told thee plain<g ref="char:EOLhyphen"/>ly, thy houſe was not thy own:</hi> It is well known to the moderate people of this Nation (though thou makeſt ſuch uſe of it) that we do not deny any man that which is his own, nor deſire it from him: but let me tell thee, thou having given Friends leave to meet in part of thy Houſe, and they having provided ſome convenience for that purpoſe, as things to ſit upon, &amp;c. it was not agreeable to the Truth for thee, for the Offence of one or two (if ſuch a thing were) to turn all the reſt forth of thy Doors without their Con<g ref="char:EOLhyphen"/>ſent, and thereby expoſe them to ſuch Sufferings as did thereupon follow, which might have been much worſe had not the then Mayor and Recorder of that City uſed much Moderation and Juſtice in the Mannagement of the Matter; and how ſleight ſoe<g ref="char:EOLhyphen"/>ver thou mayſt make of this, yet it is that which by all thy Papers and Book thou canſt not clear thy ſelf from until thou repent of it, and condemn it.</p>
+            <p>The next thing is to clear my ſelf from the Lye thou wouldſt make people believe I am guilty of, in ſaying, <hi>It is thy Principle and Practice to deny</hi> Water-baptiſm, <hi>and</hi> Breaking of Bread, <hi>and</hi> Drinking of Wine. I do ſay, and am able to prove it both by
+<pb n="13" facs="tcp:42405:7"/> Witneſs and thy Practice, that it is thy Principle and Practice (ex<g ref="char:EOLhyphen"/>cept thou be changed in that as well as in other things) to deny both, as being now in force, or to be practiſed in the Church of Chriſt; and therefore demand of thee, what Scripture thou haſt to prove the diſ<g ref="char:EOLhyphen"/>continuing of them, ſeeing thou owneſt they were once? or what Scripture had <hi>Paul</hi> to prove the diſcontinuance of Circumciſion, ſeeing God ſaid, <hi>It ſhould be for an Everlaſting Covenant in their fleſh, Gen.</hi> 17.13. For, no rational man can in reaſon judge, that I ſhould charge thee to deny that they never were, ſeeing the Scriptures are ſo full that they were, in their time and ſeaſon; therefore needleſs is it for thee to ſay, <hi>they were of Service in the Church, &amp;c.</hi> but to prove by plain Text of Scripture, that they are not (not that I ſay they are) ſeeing thou wilt be ſo exact for Scripture-proof for what we do; for that was the occaſion of my ſo writing; not that we in the leaſt deny the Scriptures, as thou well knoweſt, but own and eſteem them in their place, yet prefer the holy Spirit before them, by which the holy Scriptures were given forth, and the Leadings of that Spirit which leadeth into all Truth, ſo into the Truth in them.</p>
+            <p>In the next place I come to ſpeak of my Anſwer to thy Queries, and therein to prove unto thee and others what I ſaid before, <hi>viz.</hi> that thou haſt in all or moſt of them either added or diminiſhed; in my firſt Anſwer, pag. 26, 27. thou in thy Book endeſt with theſe words, <hi>Though they pretend Scripture for their Rule in what they do;</hi> in mine to thee there is this further, <hi>We have an evident Teſtimony that we can give for</hi> Womens Meetings, <hi>from many faithful Witneſſes, that God owneth them by accompanying them with his living Preſence in their Aſ<g ref="char:EOLhyphen"/>ſemblies; yet we go not about to impoſe them upon Believers, but as the Lord perſwades them:</hi> This word <hi>Impoſition</hi> hath often been uſed up<g ref="char:EOLhyphen"/>on other occaſions, as thou well knoweſt, by ſuch as have gone forth of the bleſſed Unity of Truth, when there hath been no occaſion for it; now, if this be fair or right, to ſay as thou doſt in the Margin, p. 26. <hi>it is my Anſwer,</hi> and yet leave this forth which anſwers to the latter part of thy Query, pag. 22, 23. I leave it to any rational man to judge: in anſwer to thy Reply I ſhall only ſay thus, We go not a<g ref="char:EOLhyphen"/>bout to ſpeak, write or act any thing contrary to the Scriptures of Truth, nor to diſ-eſteem of them, as thou well knoweſt, therefore it is not friendly ſo to write as though we did, pag. 27. and for thee to go about to make void my aſſertion in anſwer to thy Query, p. 26.
+<pb n="14" facs="tcp:42405:8"/> to wit, that the <hi>power</hi> and <hi>authority</hi> of that unlimited Spirit is the ſame in the Female as in the Male, by ſaying, pag. 27. <hi>was ever the ſame in any Female as in the heavenly Male Chriſt Jeſus,</hi> ſhews much wilfulneſs in thee; for thou canſt not be ſo ignorant as ſo to under<g ref="char:EOLhyphen"/>ſtand the intent of my words, that I ſhould compare either Female or any other Male with him in whom dwell the fulneſs of the Godhead <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odily, and of whoſe fulneſs we receive Grace for Grace: but though he was anointed with the Oyl of Gladneſs above his fellows, and did not receive the Spirit by meaſure, yet it has pleaſed the Father in his infinite to Goodneſs, that <hi>His</hi> ſhould be anointed with the ſame Anoint<g ref="char:EOLhyphen"/>ing, and receive a meaſure of the ſame Spirit, as to nature and qua<g ref="char:EOLhyphen"/>lity (and therein is one with that in thoſe Males he breathed upon) I am not ſpeaking of quantity; ſo my aſſertion is not contrary to the Apoſtles Doctrine, as thou pag. 27. ſayeſt it is, but agreeable there<g ref="char:EOLhyphen"/>unto, who ſaid, <hi>There are diverſities of Gifts by the ſame Spirit</hi> [mark that] <hi>dividing to every man ſeverally as he will;</hi> and we ſay, <hi>women too;</hi> for God ſaid, who cannot lye, He <hi>would pour forth his Spirit upon all fleſh, and your Sons and your Daughters ſhall propheſie,</hi> Joel 2.28. So my aſſertion ſtands good, and will do againſt all that thou canſt ſay againſt it, <hi>That the Power and Authority of that unlimited Spirit is the ſame in the Female as in the Male, and in that they are la<g ref="char:EOLhyphen"/>bourers together for God:</hi> Conſider what thou art about to do, and take heed left through thy own wilfulneſs darkneſs cover thy under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>Thou needeſt not tell us, <hi>That the Church hath no Power but what it hath from him who is the Beginning;</hi> for I ſay in my anſwer, pag. 27. of thy Book, <hi>That the Church of Chriſt had and hath Power given them</hi> (not that they take it wrongfully) as thou in thy Query, p. 22. wouldſt charge us with; neither are we five that Church, but through Gods Grace Members of it.</p>
+            <p>Thoſe words of thine in the Margin, pag. 27. <hi>But may not I juſtly queſtion, whether you five he that Church which hath Power gi<g ref="char:EOLhyphen"/>ven to add this, &amp;c.</hi> favours more of a cavilling ſpirit, that will be critical, then the Spirit of Truth.</p>
+            <p>Thou ſayeſt in thy Reply to my ſecond Anſwer, pag. 29. <hi>And now of late for you to ſet up ſuch things as theſe</hi> (meaning Womens Meetings) <hi>as are no way in themſelves neceſſary to the accompliſhing of the other aforeſaid, to wit, a holy and upright Life;</hi> and yet there
+<pb n="15" facs="tcp:42405:8"/> ſayeſt, <hi>thou art not againſt them or any other to meet to pray, exhort, ſtrengthen &amp; build up one another in their moſt holy Faith:</hi> This is ſtrange that they may meet together to pray, exhort, ſtrengthen and build up one another in their moſt holy Faith, and yet be no way in themſelves neceſſary to the accompliſhment of an holy and upright Life; this indeed is ſuch a Paradox to me, that I have not heard of the like by one that pretends ſo much as thou doſt; and if they may do this, which is the greater, why may they not do that which is the leſſer, to wit, <hi>take care of ſome widows, fatherleſs and ſuch as want relief, and that the younger women &amp; elder alſo walk orderly, &amp;c.</hi> we do believe they may do both, according to the ability that God giveth them; and we do not diſpiſe them becauſe they are the weaker Veſſels (though it may be ſome of us have been of that mind with thee.) And for thee to ſay, <hi>That we ſaying, if any profeſſing the Truth ſhall either by word or deed, directly diſcountenance or weaken the hands of either men or women in that work or ſervice, let ſuch be admoniſhed, according to the Order of the Goſpel, and if they receive it not, but reſiſt counſel, and perſiſt in the work of Diviſion, we cannot but look upon them, as therein, not in the unity with the Church of Chriſt and order of the Goſpel, is to excommuni<g ref="char:EOLhyphen"/>cate ſuch,</hi> or call that <hi>Excommunication,</hi> as thou doſt: I would have thee read thy ſelf, as thou ſayſt to us; for I thought Excommunication had been a further thing then to ſay, we cannot but look upon them therein not in the unity with the Church of Chriſt and order of the Goſpel; for if this be Excommunication, as thou haſt often ſaid it is, then was <hi>Daniel Maddock</hi> excommunicated by us; for we did not in thoſe things which thou chargedſt againſt him, look upon him to be in unity with the Church of Chriſt, and order of the Goſpel; and there<g ref="char:EOLhyphen"/>fore we exhorted him to condemn them, and ſo we have done and do thee, thy writing and ſpeaking ſo much againſt Womens Meeting, as thou doſt, to ſay, they are contrary to the Scripture of Truth, and that they are in themſelves no way neceſſary to the accompliſhing of an holy and upright life, &amp;c. yet we ſay, Excommunication is a fur<g ref="char:EOLhyphen"/>ther thing, <hi>viz. in the Power and Spirit of the Lord Jeſus Chriſt to de<g ref="char:EOLhyphen"/>liver ſuch a one unto Satan for the deſtruction of the fleſh,</hi> 1 Cor. 5.4, 5. So thou mayſt read thy ſelf either ignorant or wilful in thy ſaying and writing, that our ſo ſaying, as before, is Excommunication; for doubtleſs <hi>Paul</hi> had not unity with <hi>Peter</hi> in that thou mentioneſt in thine to the Reader pag. 4. neither did he look upon him therein in
+<pb n="16" facs="tcp:42405:9"/> unity with the Church of Chriſt and order of the Goſpel, yet this was not to excommunicate that good man, who did not perſiſt therein; and though the Government be upon Chriſt's Shoulders; yet he hath given his Power to govern under him; and what they do in his Power he owns; and though the Apoſtle had not dominion over other<g ref="char:punc">▪</g> Faith, or at leaſt did bear with ſuch as were weak in the faith, yet he &amp; they had Power to judge and reject Gain-ſayers and Oppoſers, and ſo have his true Church now: we do ſay, ſuch as keep to the Doctrine and Practice which was firſt amongſt us, and continue in the unity of the Spirit, which firſt united us (but that thou leaveſt forth) ſuch ought not, nor are not by us accounted Makers of Diviſion, &amp;c. but a man or men and people may hold both the doctrine and practice, and yet be forth of the unity of the Spirit, as thou art; and divers more before thee (in our day and time) have been and are: ſo thou mayſt mourn for thy ſelf; for time will come thou muſt mourn for this and other of thy doings, as well as ſeveral have done, who are gone to their place, and once bigned themſelves, and ſtiffned their Necks a<g ref="char:EOLhyphen"/>gainſt us as much as thou now doſt; but when they came to lie upon their Dying Bed, it was otherwiſe with them, and then they could take the ſhame to themſelves, and clear the Lords Truth, and them that abode faithful thereunto; and this was God's Love unto them; and this thou muſt come to ſooner or later, or it will be worſe for thee, whether thou wilt hear or forbear.</p>
+            <p>In my Anſwer to thy 3d Query thou endeſt pag. 31. <hi>And againſt ſuch the Spirit and Power of the Lord is, &amp;c.</hi> (in mine there is thus much further) <hi>God is and doth judge,</hi> as I with many more through God's Goodneſs am a living Witneſs, and had ſuch a living Teſtimo<g ref="char:EOLhyphen"/>ny in my heart from God againſt that dividing ſeparating ſpirit upon occaſion, that it left ſuch a ſeal therein, which I hope through Gods Grace I ſhall never forget. In thy aſſertion in thy latter-end of thy Query thou art too confident, as upon occaſion may appear. Now why thou ſhouldſt do thus in my firſt, and this alſo, except to cover that ſeparating ſpirit from the Teſtimony that many can give againſt it, I know not</p>
+            <p>In thy Reply, p. 31. thou ſayſt, <hi>If you had continued in that where true unity was, you would not have innovated ſuch things as would have broke it, or infeſted the Church, and diſturbed her Peace.</hi> Here thou ſetteſt thy ſelf a Judge over us all, to cenſure us to be gone forth of
+<pb n="17" facs="tcp:42405:9"/> that in which the true Unity was, ſo makeſt thy ſelf guilty of that which thou wouldſt charge upon us, viz. <hi>to be Lords over others faith,</hi> as thou didſt in thine of the 21th of the 5th moneth, 1676. to me, in which thou wroteſt, <hi>It had been better thoſe words had not been writ</hi> (meaning thoſe of the 27th of the 3d moneth, 1675.) <hi>or being writ, that we would recal them:</hi> ſo, as I wrote in anſwer to thee, we muſt not write or ſpeak that which is upon our ſpirits upon good ground, as I to thee there ſignified, but by thee be cenſured, <hi>it were better they had not been writ, or being writ to recal them;</hi> and now further by thee be cenſured to be gone forth of that in which the true unity wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſo, as <hi>W. Penn</hi> wrote to thee, inſtead of querying thou judgeſt us: but that is known and felt in our Men &amp; Womens Meetings in which our Unity was and doth continue, bleſſed be the Name of the Lord: and it is not ſome going from us now, as others have done before, that can break our Unity, as in the Power we keep; though it may be and is cauſe of godly Sorrow to us, to ſee ſuch things: Neither do honeſt godly Women, Meetings infeſt or diſturb the Peace of the true Church (it is a bad ſaying from thee, and thou muſt repent of it) it is that dividing ſpirit which would be Lord (though it pretends a great deal of Humility) that ſeek, to infeſt and diſturb her Peace; but the Lord hath hitherto preſerved it (and will do to the end, as his keep faithful to him) againſt all that hath or may riſe to break it, ei<g ref="char:EOLhyphen"/>ther from amongſt our ſelves or others. And for thee to ſay, <hi>Setting up of Womens Meetings runs parallel with the Bringers in of Circumciſion amongſt Believers:</hi> Not at all; for the Apoſtle preached Circumci<g ref="char:EOLhyphen"/>on down (though he had no Scripture for it) and ſaid, <hi>Gal.</hi> 5.2. That <hi>if ye be circumciſed, Chriſt ſhall profit you nothing;</hi> but he never ſpoke againſt <hi>Womens Meetings</hi> (when <hi>he went where they uſed to pray</hi>) but rather encouraged them, <hi>exhorting the Elder Wowen to teach the Younger;</hi> neither did <hi>Moſes,</hi> that Man of God, ſpeak againſt or for<g ref="char:EOLhyphen"/>bid <hi>Miriam, and all the Women went out after her,</hi> Exod. 15.2. (here were women apart from the men, and queſtionleſs a great aſſembly or meeting this was) for doing what they did; he might have ſaid, <hi>have not I ſung with the Children of</hi> Iſrael <hi>unto the Lord? and what need you women go apart to ſing?</hi> but he was not of ſuch a ſpirit, as to ſtop or gain<g ref="char:EOLhyphen"/>ſay any thing that was good, in which there could be no hurt, or ten<g ref="char:EOLhyphen"/>dency of evil, nor in our Womens Meetings; But thou wilt be ready to ſay, <hi>This was upon another account then to take care of the Churches
+<pb n="18" facs="tcp:42405:10"/> buſineſs;</hi> it is true; but this part of our womens buſineſs in their Meetings, to praiſe the Lord for his goodneſs: and <hi>Deborah</hi> was a Judge in <hi>Iſrael,</hi> &amp; the Children of <hi>Iſrael</hi> came unto her for Judgment, <hi>Judg.</hi> 4.4, 5. and <hi>Iſrael</hi> was the then Church of God: This may ſerve for anſwer to that in thy Reply to my Anſwer to thy 4th Query, p. 33. where thou ſayſt, <hi>it lieth upon our part to prove that ever Females were intruſted to look after the Government of the Church,</hi> which I have here done, to wit, <hi>that a Female was intruſted with the Government of the Church.</hi>
+            </p>
+            <p>In my anſwer to thy 4th Query thou endeſt, and there was the firſt breach of unity; in mine there was this further, <hi>As many can witneſs, whoſe Teſtimony I hope thou wilt not deny.</hi> So have I ſhewed wherein thou haſt either added to or diminiſhed from all or moſt of my an<g ref="char:EOLunhyphen"/>ſwers, for what end is known unto thy ſelf, and as a Concluſion there was written, before I ſubſcribed my Name, <hi>Thus have I in plainneſs, according to what was in my mind, given thee an Anſwer, and if herein thou be not ſatisfied, I leave thee to more abler Brethren for further ſatisfaction; but this I know,</hi> Richard, <hi>were the Truth and the ſimplicity thereof kept unto, there would not be ſo much a do about honeſt Womens meeting together for the end before-mentioned: and I am really ſorry upon ſerious conſideration, that thou, which haſt been a ſtrength unto others, ſhould now become a weakner of the weak, not only in this, but alſo and more particularly in other things of weighty concern, which I deſire may (in the meaſure of that bleſſed Spirit of Light and Life) be ſeriouſly by thee conſidered and amended, that ſo the <g ref="char:V">Ʋ</g>nity of the Spirit, which is the Bond of Peace, may be truly known.</hi>
+            </p>
+            <closer>
+               <signed>From thy real Friend and Welwiſher <hi>Alexander Lawrence.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>And for thee in thy Reply to my fourth Anſwer, ſo to make uſe of my words, as that I ſhould ſay, <hi>That the Scriptures ſhould ſo far differ</hi> (pag. 34.) <hi>from that Spirit that gave them forth, as to be compa<g ref="char:EOLhyphen"/>red to</hi> Babel<hi>'s Builders,</hi> becauſe I compare the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereunto, who wilt one while have an inſtance from Scripture for what we do; and another while, <hi>have not others a meaſure of Gods Spirit to direct them what to do, and what to leave undone;</hi> this I ſaid lookt like <hi>Babel</hi>'s
+<pb n="19" facs="tcp:42405:10"/> Builders: and for thee to make ſuch uſe of my ſayings as aforeſaid, is little leſs then wilful Wickedneſs: But what Scripture had <hi>John</hi> for his Baptiſm, or <hi>Paul</hi> for his preaching down Circumciſion, Prieſthood, Tythes, Temple, Offerings, &amp;c. and ſetting up new Inſtitutions: ſo that which was once done and ſet up by and according to the Com<g ref="char:EOLhyphen"/>mand of God, was afterwards by the Revelation of the divine Pow<g ref="char:EOLhyphen"/>er preached down, and another thing ſet up, by which it is plain, that the holy Spirit in all Ages was the Rule of God's People, which was before Scripture was; and was <hi>Abel</hi>'s Rule, <hi>Enoch</hi>'s Rule, <hi>Noah</hi>'s Rule, <hi>Abraham</hi>'s Rule, &amp;c. and this is the Rule of his at this day; for it is the everlaſting unchangeable Rule; and unto this have our hearts bended, and by it been broken, bleſſed be his holy Name: and unto this muſt thou bend, &amp; by it be broken more then yet thou art, or it will be worſe for thee; and this holy Spirit leads none to preach any other God, Chriſt, Spirit, Goſpel, Truth, &amp;c. then what the holy men of God, that gave forth the holy Scriptures, preached and teſtified of, as thou reflectingly upon us writeſt, pag. 26. yet the Scriptures ſpeak of another God and Spirit, <hi>viz.</hi> the God of this World, the ſpirit that ruleth in the hearts of the Children of diſ<g ref="char:EOLhyphen"/>obedience; and this is the ground of Diviſion.</p>
+               <p>Thus having for the Information and Satisfaction of the ſober im<g ref="char:EOLhyphen"/>partial Reader, given a ſhort account of the truth of things, and alſo hinted at ſome of thy Wreſtings and Perverting of our Words and Doings, knowing it would be tedious both to the Reader and my ſelf, to trace thee through them all; I leave the iſſue of all unto the Searcher of hearts, knowing it is not he that commends himſelf, but ſuch as God approves that findeth acceptance.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>In the Title Page line 9. for <hi>Cheſhire</hi> read <hi>Cheſter:</hi> pag. 7. lin. 2. for <hi>no</hi> read <hi>to.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:42405:11" rendition="simple:additions"/>
+            <pb facs="tcp:42405:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
